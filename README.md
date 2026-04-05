@@ -41,11 +41,14 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=FaranZafar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=FaranZafar&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=FaranZafar&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=FaranZafar&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaranZafar&theme=tokyonight&hide_border=true&layout=compact)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaranZafar&theme=tokyonight)
 
 ---
 

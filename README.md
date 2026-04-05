@@ -52,8 +52,8 @@
 
 ---
 
-## 🔥 Profile Views
-![](https://visitcount.itsvg.in/api?id=FaranZafar&icon=5&color=6)
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=FaranZafar&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
